@@ -1,0 +1,48 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2020-03-05T03:19:14+00:00
+
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 22
+
+Apache Licensed: 22
+Generated Documents: 0
+
+JavaDocs are generated, thus a license header is optional.
+Generated files do not require license headers.
+
+0 Unknown Licenses
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require any license headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc. will be marked N
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/pom.xml
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/BufferedImageLuminanceSource.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/MatrixToImageConfig.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/ImageReader.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/GUIRunner.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/Base64Decoder.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/Java8Base64Decoder.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/DecoderConfig.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/JAXBBase64Decoder.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/MatrixToImageWriter.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/CommandLineEncoder.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/DecodeWorker.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/CommandLineRunner.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/client/j2se/EncoderConfig.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/StringsResourceTranslator.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/main/java/com/google/zxing/HtmlAssetTranslator.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/MatrixToImageWriterTestCase.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/ImageReaderTestCase.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/CommandLineEncoderTestCase.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/CommandLineRunnerTestCase.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/Base64DecoderTestCase.java
+  AL    /home/uoji/Downloads/dacapo-modified/benchmarks/bms/zxing/build/javase/src/test/java/com/google/zxing/client/j2se/DecodeWorkerTestCase.java
+ 
+*****************************************************

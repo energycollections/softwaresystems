@@ -1,0 +1,6 @@
+com/google/zxing/client/j2se/CommandLineEncoderTestCase.class
+com/google/zxing/client/j2se/DecodeWorkerTestCase.class
+com/google/zxing/client/j2se/Base64DecoderTestCase.class
+com/google/zxing/client/j2se/CommandLineRunnerTestCase.class
+com/google/zxing/client/j2se/ImageReaderTestCase.class
+com/google/zxing/client/j2se/MatrixToImageWriterTestCase.class
